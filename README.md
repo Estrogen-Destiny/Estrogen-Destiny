@@ -27,34 +27,6 @@ These hobbies contribute to my growth as a software developer by offering me fre
 
 As a student at Hva, I have been exposed to a wide range of technologies and projects that have significantly contributed to my development skills. My journey is characterized by continuous learning and applying new technologies to solve real-world problems.
 
-### ⚡ GitHub Analytics
-
-<details>
-  <summary>Click to view GitHub Analytics</summary>
-  <div align="center">
-  
-  <div align="left">
-  
-  ![Destiny's Stats](https://github-readme-stats.vercel.app/api?username=Estrogen-Destiny&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
-  </div>
-
-  <div align="right">
-    
-  ![Destiny's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estrogen-Destiny&theme=midnight-purple&hide_border=true)
-      
-  </div>
-
-  <div align="left">
-    
-  ![Destiny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Estrogen-Destiny&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-
-  </div>
-  
-  </div>
-</details>
-
 ### 🤝 Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-kuiper-6851ab260/) or follow my GitHub journey for more updates and projects.
-
