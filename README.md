@@ -21,7 +21,7 @@ These hobbies contribute to my growth as a software developer by offering me fre
 
 ### 🌟 Highlighted Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwindcss,git,mysql,regex,bootstrap,c,cs,md,nodejs,npm,postman,&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwindcss,git,mysql,regex,bootstrap,md,nodejs,npm,postman,java,ts&theme=dark&perline=4)](https://skillicons.dev)
 
 ### 📚 Learning Journey
 
