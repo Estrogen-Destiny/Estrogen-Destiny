@@ -29,4 +29,4 @@ As a student at Hva, I have been exposed to a wide range of technologies and pro
 
 ### 🤝 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-kuiper-6851ab260/) or follow my GitHub journey for more updates and projects.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylan-kuiper) or follow my GitHub journey for more updates and projects.
