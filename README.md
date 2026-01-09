@@ -1,7 +1,7 @@
 # Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9715F7&random=false&width=435&lines=Welcome+to+my+GitHub+profile;Student+at+Bit+Academy;Third-year+software+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9715F7&random=false&width=435&lines=Welcome+to+my+GitHub+profile;Student+at+HVA;Third-year+software+developer" alt="Typing SVG" />
 </p>
 
 I'm a passionate first-year software developer student at [Hva](https://www.hva.nl/), striving to make impactful software solutions. With a keen interest in both front-end and back-end technologies, I am dedicated to learning and applying modern web development practices.
